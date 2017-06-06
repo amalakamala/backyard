@@ -17,7 +17,7 @@ body{
 /*---------- HEADER ---------*/
 
 #nav.flex-container{
-	justify-content: row;
+	flex-direction: row;
 	align-items: flex-end;
 }
 
